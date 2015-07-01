@@ -25,6 +25,7 @@ $navbar-default-color: $light-orange;
 
 body {
   padding-top: 80px;
+  background-color: #00ffff;
 }
 
 .nav_item {
@@ -65,4 +66,13 @@ h2 {
   margin-top: 25px;
   border-top: 1px solid #eaeaea;
   color: #777;
+}
+
+.darkBlue {
+  background-color: #000080;
+}
+
+.first:hover {
+  color: red;
+  transition: all 5s;
 }
